@@ -5,9 +5,13 @@ Short description of package/script
 - If package, list of functionalities/scripts it can perform
 - If standalone script, short description of script explaining what it achieves
 
+bsedata package
+
 ## Setup instructions
 
 Explain how to setup and run your package/script in user's system
+
+pip install bsedata
 
 ## Detailed explanation of script, if needed
 
@@ -20,6 +24,7 @@ Display images/gifs/videos of output/result of your script so that users can vis
 ## Author(s)
 
 Name(s) of author(s)
+Kashyapji
 
 ## Disclaimers, if any
 
